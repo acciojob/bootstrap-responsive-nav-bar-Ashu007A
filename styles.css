@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+
+.dropdown-divider {
+	border-top: 1px solid #e5e5e5; /* Define the line style */
+}
